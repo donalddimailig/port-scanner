@@ -1,3 +1,5 @@
+**Port Scanner Implementation**
+
 TCP port scanners work by establishing connection to the ports of a host to be scanned. If a connection is established then the port is open. This port scanner implementation uses sockets and runs a loop to connect to the ports of the target host.
 B. How To Use
 
